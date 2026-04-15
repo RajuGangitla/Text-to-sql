@@ -6,3 +6,4 @@ openai
 dotenv
 langchain_groq
 langchain_core
+clickhouse-connect
